@@ -1,0 +1,1 @@
+As a Pharmacy Owner, I want to add a new employee so that I can hire staff in the system.
